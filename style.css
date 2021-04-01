@@ -44,7 +44,6 @@ html{
 .line{
     width: 600px;
     height: 6px;
-    background-color: darkred;
-    margin: 8px auto;
+    background-color: black;
     margin: 8px auto;
 }
