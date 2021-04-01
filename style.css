@@ -38,3 +38,13 @@ list-style: none;
 #name{
     font-family: 'Averia Serif Libre', cursive;
 }
+html{
+    scroll-behavior: smooth;
+}
+.line{
+    width: 600px;
+    height: 6px;
+    background-color: darkred;
+    margin: 8px auto;
+    margin: 8px auto;
+}
