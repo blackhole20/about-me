@@ -1,6 +1,6 @@
 #hob{
-  border-radius:50%;
-  width:100px;
+  border-radius:40%;
+  width:200px;
 }
 body{
   text-align:center;
@@ -46,4 +46,8 @@ html{
     height: 6px;
     background-color: black;
     margin: 8px auto;
+}
+#bookshelf{
+    height: 250px;
+    width: 250px;
 }
